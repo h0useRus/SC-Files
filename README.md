@@ -11,7 +11,7 @@
 - Hauling contract titles cleaned up and Direct underlined
 - `Instability:/Resistance:` shortened to `Instab.:/Resist.:` due to overlapping issues
 - Reformatted the Mining guide journal entry to group ores by rarity (CIG not updated it since 4.6)
-- Added Type notation prefix for missiles (Thanks to WhisperDark in Discord for suggestion)
+- Added Type notation prefix for missiles
   - Eg. `Dominator II Missile` -> `[EM] Dominator II Missile`
 
 ### Installation
