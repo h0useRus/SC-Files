@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/items/">
+    <File Path="Directory.Build.props" />
+  </Folder>
+  <Folder Name="/src/" />
+  <Folder Name="/tests/" />
+</Solution>
