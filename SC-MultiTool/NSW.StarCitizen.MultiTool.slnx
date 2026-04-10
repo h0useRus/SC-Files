@@ -1,7 +1,10 @@
 <Solution>
   <Folder Name="/items/">
     <File Path="Directory.Build.props" />
+    <File Path="Directory.Packages.props" />
   </Folder>
-  <Folder Name="/src/" />
+  <Folder Name="/src/">
+    <Project Path="src/StarCitizen.MultiTool.App/StarCitizen.MultiTool.App.csproj" Id="72e0734b-090f-4cd3-89b3-3e379fafce1f" />
+  </Folder>
   <Folder Name="/tests/" />
 </Solution>
