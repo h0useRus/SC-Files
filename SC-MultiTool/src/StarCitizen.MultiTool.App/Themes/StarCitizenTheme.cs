@@ -1,5 +1,15 @@
 ﻿namespace NSW.StarCitizen.MultiTool.Themes;
 
+/// <summary>
+/// Theme palette:
+/// #0B0F14 main background
+/// #101926 panel background
+/// #152233 panel border
+/// #2DE2E6 neon cyan accent
+/// #F6A21A amber highlight
+/// #C7D1E0 primary text
+/// #7E8CA3 secondary text
+/// </summary>
 public sealed class StarCitizenTheme : Theme
 {
     public override Color BackGround { get; } = ColorTranslator.FromHtml("#0B0F14");

@@ -26,7 +26,7 @@ public partial class MainForm : Form
 
         // tbGamePath
         tbGamePath.BackColor = theme.PanelBackGround;
-        tbGamePath.ForeColor = theme.Text;
+        tbGamePath.ForeColor = theme.TextReadOnly;
         tbGamePath.BorderStyle = BorderStyle.FixedSingle;
     }
 }
